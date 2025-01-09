@@ -1,1 +1,277 @@
-function _0x516b(){const _0x2b0b7c=['toggle','navLinks','7784TSXIlv','textContent','scrollY','remove','all','star','530nAsTXY','setItem','trim','projectDescription','dark-mode','133221dElgoy','data-info','style','Untitled\x20Project','starfield','#typed-layer2','perspective(600px)\x20rotateX(0deg)\x20rotateY(0deg)','.skill-box','active','key','add','247102rfmJYA','deg)','init','observe','Enter','join','data-gradient-end','perspective(600px)\x20rotateX(','url(#','formFeedback','color','themeToggle','getBoundingClientRect','preloader','mousemove','Amrit\x20Acharya','setAttribute','Thank\x20you!\x20Your\x20message\x20has\x20been\x20sent.','tech','display','forEach','Python\x20Expert','light','block','body','svg','height','load','flex','.circular-skill','contains','offsetTop','projectTech','random','162216WQQFpO','appendChild','#typed-layer1','getElementById','top','classList','preventDefault','click','parse','scroll','target','projectTitle','submit','dark','mouseleave','clientX','a[href^=\x22#\x22]','data-filter','none','Full\x20Stack\x20Developer','2140152GkmEuX','1719wlrMvv','.service-card','querySelector','theme','querySelectorAll','getItem','transform','18nbwAAn','.project-modal-close','.filter-buttons\x20button','show','defs\x20linearGradient','title','5294840KmToby','.project-info-btn','red','clientY','closest','reset','projectModal','stopPropagation','DOMContentLoaded','href','description','left','8roJHOp','.portfolio-item','369173fAaFiq','value','getAttribute','elements','keypress','addEventListener'];_0x516b=function(){return _0x2b0b7c;};return _0x516b();}const _0x37a85a=_0x3ea0;(function(_0x3c6155,_0x1e8e5e){const _0x154b0c=_0x3ea0,_0x4e1f31=_0x3c6155();while(!![]){try{const _0x49fa86=-parseInt(_0x154b0c(0x206))/0x1+parseInt(_0x154b0c(0x23c))/0x2+parseInt(_0x154b0c(0x228))/0x3*(parseInt(_0x154b0c(0x256))/0x4)+-parseInt(_0x154b0c(0x24a))/0x5+parseInt(_0x154b0c(0x244))/0x6*(-parseInt(_0x154b0c(0x258))/0x7)+-parseInt(_0x154b0c(0x1f0))/0x8*(-parseInt(_0x154b0c(0x23d))/0x9)+-parseInt(_0x154b0c(0x1f6))/0xa*(-parseInt(_0x154b0c(0x1fb))/0xb);if(_0x49fa86===_0x1e8e5e)break;else _0x4e1f31['push'](_0x4e1f31['shift']());}catch(_0x230cfc){_0x4e1f31['push'](_0x4e1f31['shift']());}}}(_0x516b,0x843db),window[_0x37a85a(0x1ed)](_0x37a85a(0x221),()=>{const _0x5afb21=_0x37a85a,_0x89c346=document['getElementById'](_0x5afb21(0x213));_0x89c346&&(_0x89c346['style'][_0x5afb21(0x219)]=_0x5afb21(0x23a));}),AOS[_0x37a85a(0x208)]({'duration':0x3e8,'once':!![]}),document[_0x37a85a(0x1ed)](_0x37a85a(0x252),function(){const _0x2eda4a=_0x37a85a;new Typed('#typed',{'strings':[_0x2eda4a(0x215),_0x2eda4a(0x23b),_0x2eda4a(0x21b)],'typeSpeed':0x3c,'backSpeed':0x1e,'loop':!![]}),new Typed(_0x2eda4a(0x22a),{'strings':[_0x2eda4a(0x215),_0x2eda4a(0x23b),_0x2eda4a(0x21b)],'typeSpeed':0x3c,'backSpeed':0x1e,'loop':!![]}),new Typed(_0x2eda4a(0x200),{'strings':['Amrit\x20Acharya','Full\x20Stack\x20Developer',_0x2eda4a(0x21b)],'typeSpeed':0x3c,'backSpeed':0x1e,'loop':!![]});}));const themeToggle=document[_0x37a85a(0x22b)](_0x37a85a(0x211));localStorage[_0x37a85a(0x242)](_0x37a85a(0x240))===_0x37a85a(0x235)&&document[_0x37a85a(0x21e)]['classList'][_0x37a85a(0x205)](_0x37a85a(0x1fa));themeToggle[_0x37a85a(0x1ed)](_0x37a85a(0x22f),()=>{const _0x52fc96=_0x37a85a;document[_0x52fc96(0x21e)][_0x52fc96(0x22d)]['toggle']('dark-mode'),document[_0x52fc96(0x21e)][_0x52fc96(0x22d)][_0x52fc96(0x224)](_0x52fc96(0x1fa))?localStorage[_0x52fc96(0x1f7)](_0x52fc96(0x240),_0x52fc96(0x235)):localStorage['setItem'](_0x52fc96(0x240),_0x52fc96(0x21c));});const menuToggle=document[_0x37a85a(0x22b)]('menuToggle'),navLinks=document[_0x37a85a(0x22b)](_0x37a85a(0x1ef));menuToggle[_0x37a85a(0x1ed)]('click',()=>{const _0x3dbaf6=_0x37a85a;navLinks['classList']['toggle'](_0x3dbaf6(0x247));}),menuToggle[_0x37a85a(0x1ed)](_0x37a85a(0x1ec),_0x122786=>{const _0xe695cc=_0x37a85a;_0x122786[_0xe695cc(0x204)]===_0xe695cc(0x20a)&&navLinks[_0xe695cc(0x22d)][_0xe695cc(0x1ee)](_0xe695cc(0x247));}),document['querySelectorAll'](_0x37a85a(0x238))[_0x37a85a(0x21a)](_0x53f64f=>{const _0xf181b=_0x37a85a;_0x53f64f[_0xf181b(0x1ed)]('click',function(_0x383ecd){const _0x6de703=_0xf181b;_0x383ecd[_0x6de703(0x22e)]();const _0x13d74c=document[_0x6de703(0x23f)](this[_0x6de703(0x25a)]('href'));_0x13d74c&&window['scrollTo']({'top':_0x13d74c[_0x6de703(0x225)]-0x32,'behavior':'smooth'}),navLinks[_0x6de703(0x22d)]['contains'](_0x6de703(0x247))&&navLinks[_0x6de703(0x22d)][_0x6de703(0x1f3)]('show');});});const backToTopBtn=document['getElementById']('backToTop');window['addEventListener'](_0x37a85a(0x231),()=>{const _0x1f3dcd=_0x37a85a;window[_0x1f3dcd(0x1f2)]>0x12c?backToTopBtn[_0x1f3dcd(0x1fd)][_0x1f3dcd(0x219)]=_0x1f3dcd(0x21d):backToTopBtn['style'][_0x1f3dcd(0x219)]='none';}),backToTopBtn['addEventListener'](_0x37a85a(0x22f),()=>{window['scrollTo']({'top':0x0,'behavior':'smooth'});});const contactForm=document['getElementById']('contactForm'),formFeedback=document[_0x37a85a(0x22b)](_0x37a85a(0x20f));contactForm[_0x37a85a(0x1ed)](_0x37a85a(0x234),_0x436394=>{const _0x3403a2=_0x37a85a;_0x436394['preventDefault']();const _0x4c3b76=contactForm[_0x3403a2(0x1eb)]['name']['value'][_0x3403a2(0x1f8)](),_0x409f33=contactForm[_0x3403a2(0x1eb)]['email'][_0x3403a2(0x259)][_0x3403a2(0x1f8)](),_0x125b61=contactForm[_0x3403a2(0x1eb)]['message'][_0x3403a2(0x259)][_0x3403a2(0x1f8)]();if(!_0x4c3b76||!_0x409f33||!_0x125b61){formFeedback[_0x3403a2(0x1fd)][_0x3403a2(0x219)]=_0x3403a2(0x21d),formFeedback[_0x3403a2(0x1fd)][_0x3403a2(0x210)]=_0x3403a2(0x24c),formFeedback[_0x3403a2(0x1f1)]='Please\x20fill\x20out\x20all\x20required\x20fields.';return;}formFeedback[_0x3403a2(0x1fd)][_0x3403a2(0x219)]='block',formFeedback[_0x3403a2(0x1fd)][_0x3403a2(0x210)]='green',formFeedback['textContent']=_0x3403a2(0x217),contactForm[_0x3403a2(0x24f)](),confetti({'particleCount':0x50,'spread':0x46,'origin':{'y':0.6}});});const filterButtons=document['querySelectorAll'](_0x37a85a(0x246)),portfolioItems=document[_0x37a85a(0x241)](_0x37a85a(0x257));filterButtons[_0x37a85a(0x21a)](_0x5a7f06=>{const _0x4e7e06=_0x37a85a;_0x5a7f06['addEventListener'](_0x4e7e06(0x22f),()=>{const _0x18543c=_0x4e7e06;filterButtons[_0x18543c(0x21a)](_0x5dec0f=>_0x5dec0f[_0x18543c(0x22d)][_0x18543c(0x1f3)](_0x18543c(0x203))),_0x5a7f06[_0x18543c(0x22d)][_0x18543c(0x205)](_0x18543c(0x203));const _0x353d36=_0x5a7f06[_0x18543c(0x25a)](_0x18543c(0x239));portfolioItems[_0x18543c(0x21a)](_0x202cbb=>{const _0x473567=_0x18543c,_0xec347d=_0x202cbb['getAttribute']('data-category');_0x353d36===_0x473567(0x1f4)||_0x353d36===_0xec347d?_0x202cbb[_0x473567(0x1fd)][_0x473567(0x219)]='block':_0x202cbb[_0x473567(0x1fd)]['display']=_0x473567(0x23a);});});});const skillBoxes=document[_0x37a85a(0x241)](_0x37a85a(0x202)),skillObserverOptions={'threshold':0.2},skillObserver=new IntersectionObserver((_0xcd915c,_0x1d8dc7)=>{_0xcd915c['forEach'](_0x23f817=>{const _0x49f9c7=_0x3ea0;if(_0x23f817['isIntersecting']){const _0x3cb237=_0x23f817[_0x49f9c7(0x232)],_0x1f482b=_0x3cb237[_0x49f9c7(0x23f)](_0x49f9c7(0x223)),_0x3f2b06=_0x1f482b[_0x49f9c7(0x23f)]('.progress'),_0xad188=parseInt(_0x1f482b['getAttribute']('data-skill-value'),0xa),_0x2c6b68=_0x1f482b[_0x49f9c7(0x23f)]('.skill-value'),_0x412e88=_0x3cb237[_0x49f9c7(0x25a)]('data-gradient-start'),_0x4f6f06=_0x3cb237[_0x49f9c7(0x25a)](_0x49f9c7(0x20c)),_0x2858f4=_0x1f482b['querySelector'](_0x49f9c7(0x21f)),_0x281fce=_0x2858f4[_0x49f9c7(0x23f)](_0x49f9c7(0x248))['id'];_0x3f2b06[_0x49f9c7(0x216)]('stroke',_0x49f9c7(0x20e)+_0x281fce+')');const _0x1ad0dc=0x2*Math['PI']*0x36,_0x5054f7=_0x1ad0dc-_0x1ad0dc*_0xad188/0x64;_0x3f2b06[_0x49f9c7(0x1fd)]['strokeDashoffset']=_0x5054f7;let _0x287559=0x0;const _0x1ae0ab=()=>{const _0x21e3d1=_0x49f9c7;_0x287559<_0xad188?(_0x287559+=0x1,_0x2c6b68['textContent']=_0x287559+'%',requestAnimationFrame(_0x1ae0ab)):_0x2c6b68[_0x21e3d1(0x1f1)]=_0xad188+'%';};requestAnimationFrame(_0x1ae0ab),_0x1d8dc7['unobserve'](_0x3cb237);}});},skillObserverOptions);skillBoxes[_0x37a85a(0x21a)](_0x55462f=>skillObserver[_0x37a85a(0x209)](_0x55462f));const starfield=document[_0x37a85a(0x22b)](_0x37a85a(0x1ff)),numStars=0x50;for(let i=0x0;i<numStars;i++){const star=document['createElement']('div');star[_0x37a85a(0x22d)]['add'](_0x37a85a(0x1f5)),star['style'][_0x37a85a(0x22c)]=Math['random']()*0x64+'%',star[_0x37a85a(0x1fd)]['left']=Math[_0x37a85a(0x227)]()*0x64+'%',starfield[_0x37a85a(0x229)](star);}document[_0x37a85a(0x241)](_0x37a85a(0x23e))[_0x37a85a(0x21a)](_0x335ecf=>{const _0x1771db=_0x37a85a;_0x335ecf[_0x1771db(0x1ed)]('mousemove',_0x2bd0da=>tiltEffect(_0x2bd0da,_0x335ecf)),_0x335ecf[_0x1771db(0x1ed)](_0x1771db(0x236),()=>resetTilt(_0x335ecf));}),document[_0x37a85a(0x241)](_0x37a85a(0x257))[_0x37a85a(0x21a)](_0x42ef14=>{const _0x57430e=_0x37a85a;_0x42ef14['addEventListener'](_0x57430e(0x214),_0x42be00=>tiltEffect(_0x42be00,_0x42ef14)),_0x42ef14[_0x57430e(0x1ed)](_0x57430e(0x236),()=>resetTilt(_0x42ef14));});function tiltEffect(_0x55a6ea,_0x2c364f){const _0x55f5f4=_0x37a85a,_0x4e4d13=_0x2c364f[_0x55f5f4(0x212)](),_0xf8a26a=_0x55a6ea[_0x55f5f4(0x237)]-_0x4e4d13[_0x55f5f4(0x255)],_0x12fb73=_0x55a6ea[_0x55f5f4(0x24d)]-_0x4e4d13[_0x55f5f4(0x22c)],_0x467190=_0x4e4d13['width']/0x2,_0x2cc889=_0x4e4d13[_0x55f5f4(0x220)]/0x2,_0x1145fa=(_0x12fb73-_0x2cc889)/_0x2cc889*0x6,_0x4fe827=(_0xf8a26a-_0x467190)/_0x467190*0x6;_0x2c364f[_0x55f5f4(0x1fd)]['transform']=_0x55f5f4(0x20d)+-_0x1145fa+'deg)\x20rotateY('+_0x4fe827+_0x55f5f4(0x207);}function resetTilt(_0x10cfc4){const _0x2104ed=_0x37a85a;_0x10cfc4[_0x2104ed(0x1fd)][_0x2104ed(0x243)]=_0x2104ed(0x201);}const projectModal=document[_0x37a85a(0x22b)](_0x37a85a(0x250)),projectTitle=document['getElementById'](_0x37a85a(0x233)),projectDescription=document['getElementById'](_0x37a85a(0x1f9)),projectTech=document['getElementById'](_0x37a85a(0x226)),projectDemoLink=document[_0x37a85a(0x22b)]('projectDemoLink'),modalCloseBtn=document[_0x37a85a(0x23f)](_0x37a85a(0x245)),projectInfoButtons=document['querySelectorAll'](_0x37a85a(0x24b));function _0x3ea0(_0xfe4677,_0xb1b1d5){const _0x516b0e=_0x516b();return _0x3ea0=function(_0x3ea08a,_0x4580b3){_0x3ea08a=_0x3ea08a-0x1eb;let _0x25dc98=_0x516b0e[_0x3ea08a];return _0x25dc98;},_0x3ea0(_0xfe4677,_0xb1b1d5);}projectInfoButtons['forEach'](_0x56c7a0=>{_0x56c7a0['addEventListener']('click',_0x432f20=>{const _0x5051fe=_0x3ea0;_0x432f20[_0x5051fe(0x251)]();const _0x274467=_0x56c7a0[_0x5051fe(0x24e)](_0x5051fe(0x257)),_0x513acd=_0x274467[_0x5051fe(0x25a)](_0x5051fe(0x1fc));if(!_0x513acd)return;const _0x8e09f2=JSON[_0x5051fe(0x230)](_0x513acd);projectTitle[_0x5051fe(0x1f1)]=_0x8e09f2[_0x5051fe(0x249)]||_0x5051fe(0x1fe),projectDescription['textContent']=_0x8e09f2[_0x5051fe(0x254)]||'No\x20description\x20provided.',projectTech[_0x5051fe(0x1f1)]=_0x8e09f2['tech']?_0x8e09f2[_0x5051fe(0x218)][_0x5051fe(0x20b)](',\x20'):'N/A',projectDemoLink[_0x5051fe(0x253)]=_0x8e09f2['demoLink']||'#',projectModal[_0x5051fe(0x1fd)]['display']=_0x5051fe(0x222),confetti({'particleCount':0x78,'spread':0x50,'origin':{'y':0.6}});});}),modalCloseBtn[_0x37a85a(0x1ed)](_0x37a85a(0x22f),()=>{const _0x15ffc0=_0x37a85a;projectModal[_0x15ffc0(0x1fd)][_0x15ffc0(0x219)]=_0x15ffc0(0x23a);}),projectModal[_0x37a85a(0x1ed)](_0x37a85a(0x22f),_0x4598cf=>{const _0xedd759=_0x37a85a;_0x4598cf['target']===projectModal&&(projectModal['style'][_0xedd759(0x219)]='none');});
+// ===== 1. PRELOADER =====
+window.addEventListener('load', () => {
+  const preloader = document.getElementById('preloader');
+  if (preloader) {
+    preloader.style.display = 'none';
+  }
+});
+
+// ===== 2. AOS INIT =====
+AOS.init({
+  duration: 1000, // animation duration
+  once: true
+});
+
+// ===== 3. TYPED.JS FOR HERO TEXT (AND GLITCH LAYERS) =====
+document.addEventListener('DOMContentLoaded', function() {
+  // Main typed
+  new Typed('#typed', {
+    strings: ['Amrit Acharya', 'Full Stack Developer', 'Python Expert'],
+    typeSpeed: 60,
+    backSpeed: 30,
+    loop: true
+  });
+  // Glitch layer 1
+  new Typed('#typed-layer1', {
+    strings: ['Amrit Acharya', 'Full Stack Developer', 'Python Expert'],
+    typeSpeed: 60,
+    backSpeed: 30,
+    loop: true
+  });
+  // Glitch layer 2
+  new Typed('#typed-layer2', {
+    strings: ['Amrit Acharya', 'Full Stack Developer', 'Python Expert'],
+    typeSpeed: 60,
+    backSpeed: 30,
+    loop: true
+  });
+});
+
+// ===== 4. DARK MODE (LOCALSTORAGE) =====
+const themeToggle = document.getElementById('themeToggle');
+if (localStorage.getItem('theme') === 'dark') {
+  document.body.classList.add('dark-mode');
+}
+themeToggle.addEventListener('click', () => {
+  document.body.classList.toggle('dark-mode');
+  if (document.body.classList.contains('dark-mode')) {
+    localStorage.setItem('theme', 'dark');
+  } else {
+    localStorage.setItem('theme', 'light');
+  }
+});
+
+// ===== 5. HAMBURGER MENU TOGGLE =====
+const menuToggle = document.getElementById('menuToggle');
+const navLinks = document.getElementById('navLinks');
+menuToggle.addEventListener('click', () => {
+  navLinks.classList.toggle('show');
+});
+menuToggle.addEventListener('keypress', (e) => {
+  if (e.key === 'Enter') {
+    navLinks.classList.toggle('show');
+  }
+});
+
+// ===== 6. SMOOTH SCROLL & CLOSE MENU =====
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function(e) {
+    e.preventDefault();
+    const target = document.querySelector(this.getAttribute('href'));
+    if (target) {
+      window.scrollTo({
+        top: target.offsetTop - 50, // offset for navbar
+        behavior: 'smooth'
+      });
+    }
+    if (navLinks.classList.contains('show')) {
+      navLinks.classList.remove('show');
+    }
+  });
+});
+
+// ===== 7. BACK TO TOP BUTTON =====
+const backToTopBtn = document.getElementById('backToTop');
+window.addEventListener('scroll', () => {
+  if (window.scrollY > 300) {
+    backToTopBtn.style.display = 'block';
+  } else {
+    backToTopBtn.style.display = 'none';
+  }
+});
+backToTopBtn.addEventListener('click', () => {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+});
+
+// ===== 8. CONTACT FORM VALIDATION & CONFETTI =====
+const contactForm = document.getElementById('contactForm');
+const formFeedback = document.getElementById('formFeedback');
+contactForm.addEventListener('submit', (e) => {
+  e.preventDefault();
+  const nameVal = contactForm.elements['name'].value.trim();
+  const emailVal = contactForm.elements['email'].value.trim();
+  const msgVal = contactForm.elements['message'].value.trim();
+  if (!nameVal || !emailVal || !msgVal) {
+    formFeedback.style.display = 'block';
+    formFeedback.style.color = 'red';
+    formFeedback.textContent = 'Please fill out all required fields.';
+    return;
+  }
+  // Simulate submission
+  formFeedback.style.display = 'block';
+  formFeedback.style.color = 'green';
+  formFeedback.textContent = 'Thank you! Your message has been sent.';
+  contactForm.reset();
+
+  // Launch Confetti
+  confetti({
+    particleCount: 80,
+    spread: 70,
+    origin: { y: 0.6 }
+  });
+});
+
+// ===== 9. PORTFOLIO FILTER =====
+const filterButtons = document.querySelectorAll('.filter-buttons button');
+const portfolioItems = document.querySelectorAll('.portfolio-item');
+filterButtons.forEach(button => {
+  button.addEventListener('click', () => {
+    filterButtons.forEach(btn => btn.classList.remove('active'));
+    button.classList.add('active');
+    const filterVal = button.getAttribute('data-filter');
+    portfolioItems.forEach(item => {
+      const category = item.getAttribute('data-category');
+      if (filterVal === 'all' || filterVal === category) {
+        item.style.display = 'block';
+      } else {
+        item.style.display = 'none';
+      }
+    });
+  });
+});
+
+// ===== 10. SVG SKILLS ANIMATION (Gradient + Count Up) =====
+const skillBoxes = document.querySelectorAll('.skill-box');
+const skillObserverOptions = { threshold: 0.2 };
+
+const skillObserver = new IntersectionObserver((entries, observer) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      const skillBox = entry.target;
+      const circleContainer = skillBox.querySelector('.circular-skill');
+      const progressCircle = circleContainer.querySelector('.progress');
+      const skillValue = parseInt(circleContainer.getAttribute('data-skill-value'), 10);
+      const skillText = circleContainer.querySelector('.skill-value');
+
+      // Retrieve custom gradient color from data attributes
+      const gradStart = skillBox.getAttribute('data-gradient-start');
+      const gradEnd = skillBox.getAttribute('data-gradient-end');
+      const skillSvg = circleContainer.querySelector('svg');
+      const gradientId = skillSvg.querySelector('defs linearGradient').id;
+
+      // Update the stroke to use the correct gradient ID
+      progressCircle.setAttribute('stroke', `url(#${gradientId})`);
+
+      // Animate progress
+      const circumference = 2 * Math.PI * 54; // ~339.292
+      const offset = circumference - (circumference * skillValue) / 100;
+      progressCircle.style.strokeDashoffset = offset;
+
+      // Animate text count
+      let current = 0;
+      const step = () => {
+        if (current < skillValue) {
+          current += 1;
+          skillText.textContent = current + '%';
+          requestAnimationFrame(step);
+        } else {
+          skillText.textContent = skillValue + '%';
+        }
+      };
+      requestAnimationFrame(step);
+
+      observer.unobserve(skillBox);
+    }
+  });
+}, skillObserverOptions);
+
+skillBoxes.forEach(box => skillObserver.observe(box));
+
+// ===== 11. STARFIELD GENERATOR =====
+const starfield = document.getElementById('starfield');
+const numStars = 80;
+for (let i = 0; i < numStars; i++) {
+  const star = document.createElement('div');
+  star.classList.add('star');
+  star.style.top = Math.random() * 100 + '%';
+  star.style.left = Math.random() * 100 + '%';
+  starfield.appendChild(star);
+}
+
+// ===== 12. 3D TILT FOR CARDS =====
+// Service Cards
+document.querySelectorAll('.service-card').forEach(card => {
+  card.addEventListener('mousemove', (e) => tiltEffect(e, card));
+  card.addEventListener('mouseleave', () => resetTilt(card));
+});
+// Portfolio Items
+document.querySelectorAll('.portfolio-item').forEach(item => {
+  item.addEventListener('mousemove', (e) => tiltEffect(e, item));
+  item.addEventListener('mouseleave', () => resetTilt(item));
+});
+function tiltEffect(e, element) {
+  const rect = element.getBoundingClientRect();
+  const x = e.clientX - rect.left;
+  const y = e.clientY - rect.top;
+  const centerX = rect.width / 2;
+  const centerY = rect.height / 2;
+  const rotateX = ((y - centerY) / centerY) * 6; 
+  const rotateY = ((x - centerX) / centerX) * 6;
+  element.style.transform = `perspective(600px) rotateX(${-rotateX}deg) rotateY(${rotateY}deg)`;
+}
+function resetTilt(element) {
+  element.style.transform = 'perspective(600px) rotateX(0deg) rotateY(0deg)';
+}
+
+// ===== 13. PROJECT MODAL HANDLER =====
+const projectModal = document.getElementById('projectModal');
+const projectTitle = document.getElementById('projectTitle');
+const projectDescription = document.getElementById('projectDescription');
+const projectTech = document.getElementById('projectTech');
+const projectDemoLink = document.getElementById('projectDemoLink');
+const modalCloseBtn = document.querySelector('.project-modal-close');
+
+const projectInfoButtons = document.querySelectorAll('.project-info-btn');
+projectInfoButtons.forEach(btn => {
+  btn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const portfolioItem = btn.closest('.portfolio-item');
+    const infoJSON = portfolioItem.getAttribute('data-info');
+    if (!infoJSON) return;
+
+    // Parse JSON
+    const infoData = JSON.parse(infoJSON);
+    projectTitle.textContent = infoData.title || 'Untitled Project';
+    projectDescription.textContent = infoData.description || 'No description provided.';
+    projectTech.textContent = infoData.tech ? infoData.tech.join(', ') : 'N/A';
+    projectDemoLink.href = infoData.demoLink || '#';
+
+    // Show the modal
+    projectModal.style.display = 'flex';
+
+    // Quick Confetti for fun!
+    confetti({
+      particleCount: 120,
+      spread: 80,
+      origin: { y: 0.6 }
+    });
+  });
+});
+
+// Close modal when clicking the "×"
+modalCloseBtn.addEventListener('click', () => {
+  projectModal.style.display = 'none';
+});
+
+// Close modal if clicking outside of content
+projectModal.addEventListener('click', (e) => {
+  if (e.target === projectModal) {
+    projectModal.style.display = 'none';
+  }
+});
+
+// ===== 14. RANDOM HUE EXAMPLE (Optional) =====
+// document.documentElement.style.setProperty('--random', Math.random());
